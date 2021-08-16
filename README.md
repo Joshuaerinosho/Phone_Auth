@@ -1,16 +1,11 @@
-# phone_auth
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align= "center">
+1<img src="https://i.ibb.co/m8d4zBh/Screenshot-20210816-151722.png">
+<p align= "center">
+2<img src="https://i.ibb.co/GVNF0dg/Screenshot-20210816-151746.png">
+<p align= "center">
+3<img src="https://i.ibb.co/0FCtDWL/Screenshot-20210816-151756.png">
+<p align= "center">
+4<img src="https://i.ibb.co/s54TZVc/Screenshot-20210816-151836.png">
+  <p align= "center">
+5<img src="https://i.ibb.co/bKD0m89/Screenshot-20210816-151846.png">
